@@ -1,3 +1,3 @@
 # jQuery-Animation
 
-fade_slide_move:  fadeIn, fadeOut, fadeToggle, slideDown, slideUp, slideToggle, move.
+<b>fade_slide_move</b>:  fadeIn, fadeOut, fadeToggle, slideDown, slideUp, slideToggle, move.
